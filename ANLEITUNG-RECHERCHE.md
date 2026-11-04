@@ -5,7 +5,7 @@ Diese Anleitung installiert sechs Erweiterungen auf **deinem eigenen Rechner** (
 ## So geht's
 
 ```bash
-git clone -b claude/confident-babbage-sf2orr https://github.com/odonata-den/automatic-guacamole.git
+git clone -b claude/confident-babbage-sf2orr https://github.com/Odonata-Den/automatic-guacamole.git
 cd automatic-guacamole
 ./scripts/install-recherche.sh        # alle sechs nacheinander
 ./scripts/install-recherche.sh 4 6    # oder nur einzelne Nummern
