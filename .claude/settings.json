@@ -1,13 +1,20 @@
 {
+  "enabledPlugins": {
+    "linkedin-skills@linkedin-skills": true,
+    "claude-ads@ai-marketing-hub-claude-ads": true
+  },
   "extraKnownMarketplaces": {
     "linkedin-skills": {
       "source": {
         "source": "github",
         "repo": "sergebulaev/linkedin-skills"
       }
+    },
+    "ai-marketing-hub-claude-ads": {
+      "source": {
+        "source": "github",
+        "repo": "agricidaniel/claude-ads"
+      }
     }
-  },
-  "enabledPlugins": {
-    "linkedin-skills@linkedin-skills": true
   }
 }
